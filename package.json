@@ -4,7 +4,7 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Robloxing/robloxing.git"
+    "url": "https://github.com/Robloxing/robloxing-npmjs.git"
   },
   "main": "index.js",
   "scripts": {
